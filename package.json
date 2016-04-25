@@ -1,0 +1,21 @@
+{
+  "name": "phonegap-template-push",
+  "version": "1.0.0",
+  "description": "> A Push template built with PhoneGap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phonegap/phonegap-template-push.git"
+  },
+  "author": "PhoneGap Team",
+  "license": "Apache-2.0.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-template-push/issues"
+  },
+  "homepage": "https://github.com/phonegap/phonegap-template-push"
+}
