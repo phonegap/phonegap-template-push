@@ -2,6 +2,7 @@
   "name": "phonegap-template-push",
   "version": "1.0.0",
   "description": "> A Push template built with PhoneGap",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/phonegap/phonegap-template-push.git"
